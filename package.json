@@ -9,10 +9,18 @@
   },
   "private": true,
   "dependencies": {
+    "axios": "^0.26.1",
     "core-js": "^3.6.5",
     "express": "4.17.2",
+    "express-session": "^1.17.2",
+    "husky": "^7.0.4",
+    "jsonwebtoken": "^8.5.1",
+    "lint-staged": "^12.3.7",
+    "mongoose": "^6.2.7",
+    "mongoose-paginate-v2": "^1.6.3",
     "react": "17.0.2",
     "react-dom": "17.0.2",
+    "react-redux": "^7.2.6",
     "regenerator-runtime": "0.13.7",
     "tslib": "^2.0.0"
   },
